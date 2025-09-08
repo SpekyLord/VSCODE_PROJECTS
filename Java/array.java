@@ -32,7 +32,7 @@ public class array {
             System.out.println("FRANCIS GABRIEL P. AUSTRIA");            
         }
         else{
-            System.out.println("Theres no same number");
+            System.out.println("Theres no the same number");
             System.out.println("FRANCIS GABRIEL P. AUSTRIA");            
 
         }
