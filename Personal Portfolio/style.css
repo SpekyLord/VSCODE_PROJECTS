@@ -1,0 +1,28 @@
+
+div {
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+    background-color: rgba(128, 128, 128, 0.2); 
+    width: 80%;
+    box-sizing: border-box; 
+}
+
+
+.profile {
+    background-color: gray;
+    text-align: center;
+}
+
+img {
+    width: 40%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+
+html {
+    background-color: aqua;
+    font-family: sans-serif;
+}
