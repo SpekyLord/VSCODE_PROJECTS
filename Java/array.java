@@ -23,7 +23,7 @@ public class array {
             for (int e = 0; e < list2.length; e++){
             if (list1[d] == list2[e]){
                 nosame = false;
-                System.out.print("Same value: " + list1[d]);
+                System.out.print("Same value: " + list1[d] + " ");
             }
             }
         }
@@ -39,5 +39,5 @@ public class array {
         }
     }
 
-    
+   
 

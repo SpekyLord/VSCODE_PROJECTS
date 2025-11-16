@@ -1,6 +1,6 @@
 
-import java.util.Random;
-import java.util.Scanner;
+import java.util.*;
+
 
 public class simple_guessing_game {
     int random_number = 0;
